@@ -1,0 +1,36 @@
+1. giga impact: normal, attack
+2. hyper beam: normal, special
+3. close combat: fighting, attack
+4. focus blast: fighting, special
+5. bravebird: flying, attack
+6. hurricane: flying, special
+7. poison jab: poison, attack
+8. sludge wave: poison, special
+9. earthquake: ground, attack
+10. earth power: ground, special
+11. stone edge: rock, attack
+12. meteor beam: rock, special
+13. megahorn: bug, attack
+14. bug buzz: bug, special
+15. shadow claw: ghost, attack
+16. shadow ball: ghost, special
+17. iron head: steel, attack
+18. flash cannon: steel, special
+19. flare blitz: fire, attack
+20. flame thrower: fire, special
+21. liquidation: water, attack
+22. hydropump: water, special
+23. wood hammer: grass, attack
+24. solar beam: grass, special
+25. wild charge: electric, attack
+26. thunderbolt: electric, special
+27. psychic fangs: psychic, attack
+28. psycho boost: psychic, special
+29. icicle clash: ice, attack
+30. ice beam: ice, special
+31. outrage: dragon, attack
+32. draco meteor: dragon, special
+33. throat chop: dark, attack
+34. dark pulse: dark, special
+35. play rough: fairy, attack
+36. moon blast: fairy, special
